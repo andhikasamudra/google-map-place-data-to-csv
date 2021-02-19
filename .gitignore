@@ -1,0 +1,4 @@
+.venv
+output
+.idea
+local_env.sh
