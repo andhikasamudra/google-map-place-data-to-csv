@@ -13,3 +13,7 @@ and just simply run
 ```shell
 source run.sh
 ```
+
+## How to use
+
+just type any keyword you wanted to scrap and the output data should be in `output` folder
